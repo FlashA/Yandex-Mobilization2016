@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="toolbar_title">Исполнители</string>
+
+
+    <string name="tv_albums_and_tracks">Альбомы и треки</string>
+    <string name="tv_genres">Жанры</string>
+    <string name="tv_name">Имя</string>
+
+    <string name="tv_biography">текст биографии</string>
+    <string name="tv_biography_title">Биография</string>
+
+
+
+    <plurals name="albums">
+        <item quantity="one">%d альбом</item>
+        <item quantity="few">%d альбома</item>
+        <item quantity="many">%d альбомов</item>
+        <item quantity="other">%d альбомов</item>
+    </plurals>
+
+    <plurals name="tracks">
+        <item quantity="one">%d песня</item>
+        <item quantity="few">%d песни</item>
+        <item quantity="many">%d песен</item>
+        <item quantity="other">%d песен</item>
+    </plurals>
+</resources>
